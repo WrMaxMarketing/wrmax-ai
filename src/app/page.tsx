@@ -3,6 +3,7 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/com
 import { Calendar, CheckCircle, Clock, Mail, Phone, Shield, TrendingUp, Users } from "lucide-react"
 import Image from "next/image"
 
+// changes
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-background">
